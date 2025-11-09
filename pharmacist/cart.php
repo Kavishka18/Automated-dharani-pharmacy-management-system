@@ -56,7 +56,7 @@ if (isset($_POST['submit']) && $_POST['modepayment'] == 'card') {
         echo "<script>alert('Cart is empty!'); window.location='cart.php';</script>";
         exit;
     }
-
+//env create this one more secure
     $stripePath = '../vendor/stripe/stripe-php/init.php';
     if (file_exists($stripePath)) {
         require_once $stripePath;

@@ -1,0 +1,11 @@
+{
+  "opening_hours": "We are open every day from <strong>7:00 AM to 10:00 PM</strong>.",
+  "closed_days": "We are <strong>closed only on Poya Days</strong> (full moon). All other days we are open!",
+  "phone": "Call us anytime: <strong>033-222-1234</strong>",
+  "address": "Dharani Pharmacy<br>No. 123, Colombo Road, Gampaha",
+  "greeting": "Hello! Welcome to <strong>Dharani Pharmacy Gampaha</strong>! How can I help you today?",
+  "no_medicine": "Sorry, we don't have that medicine right now. Please try another name or visit us!",
+  "yes_medicine": "Yes sir! We have <strong>{medicine}</strong> in stock.<br>Available: <strong>{qty} units</strong>",
+  "thanks": "You're welcome! Have a healthy day!",
+  "default": "I'm your pharmacy assistant! You can ask:<br>• Do you have Panadol?<br>• What time do you open?<br>• Are you closed on Poya day?"
+}

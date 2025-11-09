@@ -1,0 +1,11 @@
+{
+    "name": "kavishkamalshakagimhan/pms",
+    "require": {
+        "guzzlehttp/guzzle": "^7.10",
+        "tecnickcom/tcpdf": "^6.10",
+        "twilio/sdk": "^8.8",
+        "phpmailer/phpmailer": "^7.0",
+        "stripe/stripe-php": "^18.1",
+        "google/cloud-vision": "^2.1"
+    }
+}

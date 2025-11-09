@@ -38,13 +38,20 @@
              <span>Expired Alerts</span>
            </a>
          </li>
-         
-<li class="nav-item">
-  <a class="nav-link" href="monthly-report.php">
-    <i class="ni ni-chart-bar-32 text-info"></i> Monthly Report
-  </a>
-</li>
-         
+
+         <li class="nav-item">
+           <a class="nav-link" href="monthly-report.php">
+             <i class="ni ni-chart-bar-32 text-info"></i> Monthly Report
+           </a>
+         </li>
+
+         <li class="nav-item">
+           <a class="nav-link" href="insurance-approved-history.php">
+             <i class="fas fa-shield-alt text-red"></i>
+             <span>Insurance Approved History</span>
+           </a>
+         </li>
+
 
        </ul>
 
@@ -66,8 +73,8 @@
 
        </ul>
 
-     
-       
+
+
 
        <li class="nav-item">
          <a class="nav-link" href="medicine-inventory-analysis.php" style="color:#000">

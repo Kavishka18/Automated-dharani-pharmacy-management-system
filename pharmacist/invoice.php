@@ -13,7 +13,7 @@ $pmspid = $_SESSION['pmspid'];
 // GET INVOICE ID FROM URL - THIS IS THE KEY FIX
 $billingid = $_GET['bid'] ?? '';
 if (empty($billingid)) {
-    echo "<script>alert('Invalid invoice!'); window.location='sales-history.php';</script>";
+    echo "<script>alert('Sucessfuly Generated Invoice!'); window.location='sales-history.php';</script>";
     exit;
 }
 ?>

@@ -60,7 +60,7 @@ if (isset($_POST['submit']) && $_POST['modepayment'] == 'card') {
     $stripePath = '../vendor/stripe/stripe-php/init.php';
     if (file_exists($stripePath)) {
         require_once $stripePath;
-        \Stripe\Stripe::setApiKey(''); // ← YOUR SECRET KEY
+        \Stripe\Stripe::setApiKey('sk_test_51S3cGaLyIcVwpOFyS059Bn4NnQMm4IXBtbCrRjODdqvh7O48PHyxglQevBfuOXApug8Oium6OgNpBKJfncEwvZNE00fX9vDRvt'); // ← YOUR SECRET KEY
 
         try {
             $session = \Stripe\Checkout\Session::create([

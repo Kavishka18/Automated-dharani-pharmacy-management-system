@@ -56,6 +56,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<li class=""><a href="pharmacist/">Pharmacist</a></li>
 				<li class=""><a href="admin/">Admin</a></li>
 				<li class=""><a href="customer/">Customer</a></li>
+				<li class=""><a href="InsuranceProvider/">Insurance Provider</a></li>
+
 
 			</ul>
 	

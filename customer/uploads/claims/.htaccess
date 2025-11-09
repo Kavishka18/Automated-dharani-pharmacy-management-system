@@ -1,0 +1,17 @@
+# ALLOW EVERYTHING - UPLOAD + VIEW + DOWNLOAD
+<IfModule mod_headers.c>
+    Header set Content-Disposition inline
+</IfModule>
+
+<FilesMatch "\.(pdf|jpg|jpeg|png|gif)$">
+    Order Allow,Deny
+    Allow from all
+    Require all granted
+    Satisfy Any
+</FilesMatch>
+
+# DISABLE PHP EXECUTION FOR SECURITY
+<Files "*.php">
+    Order Allow,Deny
+    Deny from all
+</Files>

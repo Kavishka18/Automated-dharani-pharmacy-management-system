@@ -53,6 +53,17 @@
            </a>
          </li>
 
+         <li class="nav-item">
+           <a class="nav-link" href="submit-claim.php">
+             <i class="fas fa-file-medical text-green"></i> Submit Insurance Claim
+           </a>
+         </li>
+         <li class="nav-item">
+           <a class="nav-link" href="my-claims.php">
+             <i class="fas fa-list-alt text-orange"></i> My Claims
+           </a>
+         </li>
+
        </ul>
        <!-- Divider -->
 

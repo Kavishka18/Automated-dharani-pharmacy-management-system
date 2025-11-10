@@ -109,6 +109,12 @@
            </a>
          </li>
 
+         <li class="nav-item">
+           <a class="nav-link" href="upload_prescription.php">
+             <i class="ni ni-ui-04 text-green"></i> AI
+           </a>
+         </li>
+
          
 
     

@@ -267,7 +267,7 @@ if(isset($_POST['login'])) {
         </form>
 
         <div class="links">
-            <a href="forgot-password.php">Forgot Password?</a>
+            <!-- <a href="forgot-password.php">Forgot Password?</a> -->
             <span style="margin:0 18px; opacity:0.6;">•</span>
             <a href="../index.php">Back to Home</a>
         </div>

@@ -133,7 +133,7 @@ if(isset($_POST['submit'])) {
                                     <label class="form-control-label">Total Claim Amount (Rs.)</label>
                                     <div class="input-group input-group-alternative">
                                         <div class="input-group-prepend">
-                                            <span class="input-group-text"><i class="fas fa-rupee-sign"></i></span>
+                                            <span class="input-group-text"><i class=""></i></span>
                                         </div>
                                         <input type="number" step="0.01" name="claimamount" class="form-control form-control-lg" placeholder="2500.00" required>
                                     </div>

@@ -88,7 +88,7 @@ if (!isset($_SESSION['cspid']) || empty($_SESSION['cspid'])) {
               <h1 class="text-white mb-0">
                 <i class="fas fa-robot text-warning"></i> Chat with AI Assistant
               </h1>
-              <p class="text-white opacity-8">Ask about medicine stock, hours, or anything!</p>
+              <p class="text-white opacity-8">Ask about medicine, hours, or anything!</p>
             </div>
           </div>
         </div>

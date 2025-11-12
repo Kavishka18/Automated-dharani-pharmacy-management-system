@@ -52,9 +52,19 @@
                         border-radius: 50px; transform: translateX(-100%); transition: transform 0.4s ease; z-index: 1;"></span>
                </a>
                <style>
-                  .nav-item a[href="dashboard.php"]:hover { transform: translateY(-2px); box-shadow: 0 8px 25px rgba(33, 150, 243, 0.3) !important; }
-                  .nav-item a[href="dashboard.php"]:hover span:last-child { transform: translateX(0%) !important; }
-                  .nav-item a[href="dashboard.php"]:hover span:nth-child(2), .nav-item a[href="dashboard.php"]:hover i { color: white !important; }
+                  .nav-item a[href="dashboard.php"]:hover {
+                     transform: translateY(-2px);
+                     box-shadow: 0 8px 25px rgba(33, 150, 243, 0.3) !important;
+                  }
+
+                  .nav-item a[href="dashboard.php"]:hover span:last-child {
+                     transform: translateX(0%) !important;
+                  }
+
+                  .nav-item a[href="dashboard.php"]:hover span:nth-child(2),
+                  .nav-item a[href="dashboard.php"]:hover i {
+                     color: white !important;
+                  }
                </style>
             </li>
 
@@ -69,9 +79,19 @@
                         border-radius: 50px; transform: translateX(-100%); transition: transform 0.4s ease; z-index: 1;"></span>
                </a>
                <style>
-                  .nav-item a[href="customer-chat.php"]:hover { transform: translateY(-2px); box-shadow: 0 8px 25px rgba(0, 188, 212, 0.3) !important; }
-                  .nav-item a[href="customer-chat.php"]:hover span:last-child { transform: translateX(0%) !important; }
-                  .nav-item a[href="customer-chat.php"]:hover span:nth-child(2), .nav-item a[href="customer-chat.php"]:hover i { color: white !important; }
+                  .nav-item a[href="customer-chat.php"]:hover {
+                     transform: translateY(-2px);
+                     box-shadow: 0 8px 25px rgba(0, 188, 212, 0.3) !important;
+                  }
+
+                  .nav-item a[href="customer-chat.php"]:hover span:last-child {
+                     transform: translateX(0%) !important;
+                  }
+
+                  .nav-item a[href="customer-chat.php"]:hover span:nth-child(2),
+                  .nav-item a[href="customer-chat.php"]:hover i {
+                     color: white !important;
+                  }
                </style>
             </li>
 
@@ -86,9 +106,19 @@
                         border-radius: 50px; transform: translateX(-100%); transition: transform 0.4s ease; z-index: 1;"></span>
                </a>
                <style>
-                  .nav-item a[href="submit-claim.php"]:hover { transform: translateY(-2px); box-shadow: 0 8px 25px rgba(76, 175, 80, 0.3) !important; }
-                  .nav-item a[href="submit-claim.php"]:hover span:last-child { transform: translateX(0%) !important; }
-                  .nav-item a[href="submit-claim.php"]:hover span:nth-child(2), .nav-item a[href="submit-claim.php"]:hover i { color: white !important; }
+                  .nav-item a[href="submit-claim.php"]:hover {
+                     transform: translateY(-2px);
+                     box-shadow: 0 8px 25px rgba(76, 175, 80, 0.3) !important;
+                  }
+
+                  .nav-item a[href="submit-claim.php"]:hover span:last-child {
+                     transform: translateX(0%) !important;
+                  }
+
+                  .nav-item a[href="submit-claim.php"]:hover span:nth-child(2),
+                  .nav-item a[href="submit-claim.php"]:hover i {
+                     color: white !important;
+                  }
                </style>
             </li>
 
@@ -103,9 +133,47 @@
                         border-radius: 50px; transform: translateX(-100%); transition: transform 0.4s ease; z-index: 1;"></span>
                </a>
                <style>
-                  .nav-item a[href="my-claims.php"]:hover { transform: translateY(-2px); box-shadow: 0 8px 25px rgba(255, 152, 0, 0.3) !important; }
-                  .nav-item a[href="my-claims.php"]:hover span:last-child { transform: translateX(0%) !important; }
-                  .nav-item a[href="my-claims.php"]:hover span:nth-child(2), .nav-item a[href="my-claims.php"]:hover i { color: white !important; }
+                  .nav-item a[href="my-claims.php"]:hover {
+                     transform: translateY(-2px);
+                     box-shadow: 0 8px 25px rgba(255, 152, 0, 0.3) !important;
+                  }
+
+                  .nav-item a[href="my-claims.php"]:hover span:last-child {
+                     transform: translateX(0%) !important;
+                  }
+
+                  .nav-item a[href="my-claims.php"]:hover span:nth-child(2),
+                  .nav-item a[href="my-claims.php"]:hover i {
+                     color: white !important;
+                  }
+               </style>
+            </li>
+
+            <li class="nav-item">
+               <a class="nav-link d-flex align-items-center position-relative overflow-hidden" href="inquiries.php"
+                  style="color:#000; text-decoration:none; padding:12px 20px; border-radius:50px; 
+              background:linear-gradient(135deg,#f3e5f5,#e1bee7); 
+              box-shadow:0 4px 15px rgba(156,39,176,.2); transition:all .3s ease; border:1px solid #ce93d8;">
+                  <i class="fas fa-question-circle text-purple mr-3" style="font-size:1.2rem; z-index:2;"></i>
+                  <span style="font-weight:600; z-index:2; color:#6a1b9a;">Customer Inquiries</span>
+                  <span class="position-absolute" style="top:0;left:0;width:100%;height:100%;
+               background:linear-gradient(135deg,#ab47bc,#7b1fa2);
+               border-radius:50px; transform:translateX(-100%); transition:transform .4s ease; z-index:1;"></span>
+               </a>
+               <style>
+                  .nav-item a[href="inquiries.php"]:hover {
+                     transform: translateY(-2px);
+                     box-shadow: 0 8px 25px rgba(156, 39, 176, .3) !important;
+                  }
+
+                  .nav-item a[href="inquiries.php"]:hover span:last-child {
+                     transform: translateX(0%) !important;
+                  }
+
+                  .nav-item a[href="inquiries.php"]:hover span:nth-child(2),
+                  .nav-item a[href="inquiries.php"]:hover i {
+                     color: white !important;
+                  }
                </style>
             </li>
 

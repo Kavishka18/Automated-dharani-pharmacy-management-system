@@ -287,7 +287,7 @@ if (strlen($_SESSION['pmsaid'] == 0)) {
                 DHARANI PHARMACY
             </h1>
             <p style="margin:12px 0 0; font-size:1.1rem; opacity:0.9;">
-                Gampaha • Sri Lanka • Running on $2 Billion Dollar Software • Built with Love
+                Gampaha • Sri Lanka • Built with Modern
             </p>
         </div>
 

@@ -4,7 +4,7 @@
       
           </div>
           <div class="col-xl-6">
-            <h4 style="text-align: right;">Pharmacy Management System</h4>
+            <h4 style="text-align: right;">Automated Dharani Pharmacy Management System</h4>
 </div>
           </div>
         </div>

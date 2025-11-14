@@ -1,6 +1,6 @@
 <?php
 function analyze_prescription_image($imagePath) {
-    $apiKey = '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';
+    $apiKey = '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';
     $model = 'meta-llama/llama-4-scout-17b-16e-instruct';
     $url = 'https://api.groq.com/openai/v1/chat/completions';
 

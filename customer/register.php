@@ -218,7 +218,7 @@ if(isset($_POST['submit'])) {
     </div>
 
     <h1 class="title">Join Portal</h1>
-    <p class="subtitle">Create your secure patient account<br>DHARANI PHARMACY • Gampaha, Sri Lanka</p>
+    <p class="subtitle">Create your secure customer account<br>DHARANI PHARMACY • Gampaha, Sri Lanka</p>
 
     <?php if($msg): ?>
         <div class="alert"><?php echo $msg; ?></div>
